@@ -8,5 +8,5 @@
 /build
 /captures
 .externalNativeBuild
-/app/gradle
-/app/build
+app/gradle
+app/build
